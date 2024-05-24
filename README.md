@@ -1,1 +1,0 @@
-# IKT-projekt-1
