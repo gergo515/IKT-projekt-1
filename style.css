@@ -30,3 +30,11 @@ h1{
     background-color: rgba(100, 138, 210, 0.2);
     border: 2px dotted black;
 }
+
+#Olümposz{
+    width: 300px;
+}
+
+.szoveghivatkozas{
+    color: rgb(100, 138, 210);
+}
