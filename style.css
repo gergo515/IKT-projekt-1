@@ -38,3 +38,13 @@ h1{
 .szoveghivatkozas{
     color: rgb(100, 138, 210);
 }
+
+.lablec{
+    text-align: center;
+    background-color: rgb(0, 123, 255);
+    color: white;
+}
+
+.lablec a{
+    color: white;
+}
