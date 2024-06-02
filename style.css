@@ -23,6 +23,10 @@ h1{
     width: 250px;
 }
 
-#bevezeto{
+.ismertetokep{
+    width: 250px;
+}
+.ismerteto{
     background-color: rgba(100, 138, 210, 0.2);
+    border: 2px dotted black;
 }
